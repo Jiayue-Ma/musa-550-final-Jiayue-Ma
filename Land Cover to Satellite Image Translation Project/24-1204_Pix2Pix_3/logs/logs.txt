@@ -1,0 +1,312 @@
+Step: 0k
+....................................................................................................
+Time taken for 1000 steps: 107.82 sec
+
+Discriminator loss: 0.73785996
+Generator GAN loss: 1.6827435
+Generator L1 loss: 0.115415335
+Generator total loss: 13.2242775
+Step: 1k
+....................................................................................................
+Time taken for 1000 steps: 124.55 sec
+
+Discriminator loss: 0.9131502
+Generator GAN loss: 2.3831928
+Generator L1 loss: 0.14474587
+Generator total loss: 16.85778
+Step: 2k
+....................................................................................................
+Time taken for 1000 steps: 131.08 sec
+
+Discriminator loss: 0.8220801
+Generator GAN loss: 1.7979214
+Generator L1 loss: 0.11110628
+Generator total loss: 12.908549
+Step: 3k
+....................................................................................................
+Time taken for 1000 steps: 141.42 sec
+
+Discriminator loss: 0.80408436
+Generator GAN loss: 1.4009151
+Generator L1 loss: 0.103600025
+Generator total loss: 11.760918
+Step: 4k
+....................................................................................................
+Time taken for 1000 steps: 128.49 sec
+
+Discriminator loss: 1.2985153
+Generator GAN loss: 2.0910847
+Generator L1 loss: 0.104951896
+Generator total loss: 12.586274
+Step: 5k
+....................................................................................................
+Time taken for 1000 steps: 124.29 sec
+
+Discriminator loss: 0.9618423
+Generator GAN loss: 2.5089028
+Generator L1 loss: 0.12463225
+Generator total loss: 14.972127
+Step: 6k
+....................................................................................................
+Time taken for 1000 steps: 127.37 sec
+
+Discriminator loss: 1.1550436
+Generator GAN loss: 1.3715938
+Generator L1 loss: 0.046257038
+Generator total loss: 5.997298
+Step: 7k
+....................................................................................................
+Time taken for 1000 steps: 131.48 sec
+
+Discriminator loss: 1.210499
+Generator GAN loss: 1.5684477
+Generator L1 loss: 0.09927561
+Generator total loss: 11.496009
+Step: 8k
+....................................................................................................
+Time taken for 1000 steps: 130.76 sec
+
+Discriminator loss: 2.3258278
+Generator GAN loss: 0.31807864
+Generator L1 loss: 0.10767888
+Generator total loss: 11.085967
+Step: 9k
+....................................................................................................
+Time taken for 1000 steps: 139.18 sec
+
+Discriminator loss: 0.6828687
+Generator GAN loss: 3.4728606
+Generator L1 loss: 0.15414473
+Generator total loss: 18.887335
+Step: 10k
+....................................................................................................
+Time taken for 1000 steps: 133.76 sec
+
+Discriminator loss: 1.0476885
+Generator GAN loss: 0.9531807
+Generator L1 loss: 0.10970064
+Generator total loss: 11.923244
+Step: 11k
+....................................................................................................
+Time taken for 1000 steps: 140.85 sec
+
+Discriminator loss: 0.4143842
+Generator GAN loss: 1.6604979
+Generator L1 loss: 0.13292164
+Generator total loss: 14.9526615
+Step: 12k
+....................................................................................................
+Time taken for 1000 steps: 136.55 sec
+
+Discriminator loss: 0.7155479
+Generator GAN loss: 1.0019411
+Generator L1 loss: 0.13624507
+Generator total loss: 14.626448
+Step: 13k
+....................................................................................................
+Time taken for 1000 steps: 138.00 sec
+
+Discriminator loss: 2.0680387
+Generator GAN loss: 1.4771026
+Generator L1 loss: 0.0860255
+Generator total loss: 10.079652
+Step: 14k
+....................................................................................................
+Time taken for 1000 steps: 131.68 sec
+
+Discriminator loss: 0.5718351
+Generator GAN loss: 1.348474
+Generator L1 loss: 0.118947364
+Generator total loss: 13.24321
+Step: 15k
+....................................................................................................
+Time taken for 1000 steps: 134.34 sec
+
+Discriminator loss: 0.97906065
+Generator GAN loss: 2.2240663
+Generator L1 loss: 0.16737716
+Generator total loss: 18.961782
+Step: 16k
+....................................................................................................
+Time taken for 1000 steps: 134.02 sec
+
+Discriminator loss: 1.0966283
+Generator GAN loss: 1.2288915
+Generator L1 loss: 0.10345616
+Generator total loss: 11.574508
+Step: 17k
+....................................................................................................
+Time taken for 1000 steps: 129.39 sec
+
+Discriminator loss: 0.7646351
+Generator GAN loss: 1.2485842
+Generator L1 loss: 0.104555726
+Generator total loss: 11.704156
+Step: 18k
+....................................................................................................
+Time taken for 1000 steps: 128.43 sec
+
+Discriminator loss: 0.58186996
+Generator GAN loss: 1.6756177
+Generator L1 loss: 0.12033676
+Generator total loss: 13.709293
+Step: 19k
+....................................................................................................
+Time taken for 1000 steps: 130.18 sec
+
+Discriminator loss: 1.0673251
+Generator GAN loss: 1.1097726
+Generator L1 loss: 0.111096345
+Generator total loss: 12.219407
+Step: 20k
+....................................................................................................
+Time taken for 1000 steps: 122.52 sec
+
+Discriminator loss: 0.71678114
+Generator GAN loss: 1.2201451
+Generator L1 loss: 0.09986246
+Generator total loss: 11.206391
+Step: 21k
+....................................................................................................
+Time taken for 1000 steps: 122.70 sec
+
+Discriminator loss: 0.52016366
+Generator GAN loss: 1.4203696
+Generator L1 loss: 0.12042054
+Generator total loss: 13.462423
+Step: 22k
+....................................................................................................
+Time taken for 1000 steps: 123.10 sec
+
+Discriminator loss: 0.7037725
+Generator GAN loss: 0.94850343
+Generator L1 loss: 0.11976495
+Generator total loss: 12.924998
+Step: 23k
+....................................................................................................
+Time taken for 1000 steps: 129.04 sec
+
+Discriminator loss: 0.47234833
+Generator GAN loss: 2.2978988
+Generator L1 loss: 0.13748483
+Generator total loss: 16.046383
+Step: 24k
+....................................................................................................
+Time taken for 1000 steps: 123.83 sec
+
+Discriminator loss: 0.862738
+Generator GAN loss: 1.3025906
+Generator L1 loss: 0.10993848
+Generator total loss: 12.296438
+Step: 25k
+....................................................................................................
+Time taken for 1000 steps: 119.05 sec
+
+Discriminator loss: 1.007914
+Generator GAN loss: 1.9340929
+Generator L1 loss: 0.14211303
+Generator total loss: 16.145395
+Step: 26k
+....................................................................................................
+Time taken for 1000 steps: 119.70 sec
+
+Discriminator loss: 0.8027315
+Generator GAN loss: 0.9831961
+Generator L1 loss: 0.05976628
+Generator total loss: 6.9598246
+Step: 27k
+....................................................................................................
+Time taken for 1000 steps: 125.02 sec
+
+Discriminator loss: 0.6391425
+Generator GAN loss: 1.1850067
+Generator L1 loss: 0.093435526
+Generator total loss: 10.52856
+Step: 28k
+....................................................................................................
+Time taken for 1000 steps: 120.63 sec
+
+Discriminator loss: 0.8917093
+Generator GAN loss: 0.7271487
+Generator L1 loss: 0.12314681
+Generator total loss: 13.04183
+Step: 29k
+....................................................................................................
+Time taken for 1000 steps: 123.41 sec
+
+Discriminator loss: 0.3475626
+Generator GAN loss: 2.0592256
+Generator L1 loss: 0.10655404
+Generator total loss: 12.71463
+Step: 30k
+....................................................................................................
+Time taken for 1000 steps: 119.92 sec
+
+Discriminator loss: 0.8769059
+Generator GAN loss: 0.97645944
+Generator L1 loss: 0.11912745
+Generator total loss: 12.889205
+Step: 31k
+....................................................................................................
+Time taken for 1000 steps: 125.31 sec
+
+Discriminator loss: 0.91161543
+Generator GAN loss: 0.95088524
+Generator L1 loss: 0.11328872
+Generator total loss: 12.2797575
+Step: 32k
+....................................................................................................
+Time taken for 1000 steps: 120.82 sec
+
+Discriminator loss: 1.1193655
+Generator GAN loss: 2.3838468
+Generator L1 loss: 0.11166652
+Generator total loss: 13.550499
+Step: 33k
+....................................................................................................
+Time taken for 1000 steps: 123.93 sec
+
+Discriminator loss: 0.5263567
+Generator GAN loss: 1.7964365
+Generator L1 loss: 0.06297319
+Generator total loss: 8.093755
+Step: 34k
+....................................................................................................
+Time taken for 1000 steps: 125.07 sec
+
+Discriminator loss: 0.6807474
+Generator GAN loss: 1.8112556
+Generator L1 loss: 0.07314285
+Generator total loss: 9.125541
+Step: 35k
+....................................................................................................
+Time taken for 1000 steps: 127.29 sec
+
+Discriminator loss: 1.1518384
+Generator GAN loss: 1.5345688
+Generator L1 loss: 0.08515694
+Generator total loss: 10.050262
+Step: 36k
+....................................................................................................
+Time taken for 1000 steps: 121.27 sec
+
+Discriminator loss: 0.7576015
+Generator GAN loss: 1.7003558
+Generator L1 loss: 0.09748752
+Generator total loss: 11.449107
+Step: 37k
+....................................................................................................
+Time taken for 1000 steps: 121.26 sec
+
+Discriminator loss: 0.68960524
+Generator GAN loss: 1.3168797
+Generator L1 loss: 0.08719856
+Generator total loss: 10.036736
+Step: 38k
+....................................................................................................
+Time taken for 1000 steps: 122.16 sec
+
+Discriminator loss: 1.8272173
+Generator GAN loss: 3.391673
+Generator L1 loss: 0.08450085
+Generator total loss: 11.841758

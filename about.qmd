@@ -1,21 +1,25 @@
 ---
 title: "About Me"
+format: html
 toc: false
 ---
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
 
-<img src="images/Eric.png" alt="Eric Delmelle" style="width: 170px; border-radius: 10px;">
+<img src="images/Jiayue Ma.jpg" alt="Jiayue Ma" style="width: 400px; border-radius: 10px;">
 
 <div>
-  <p><span style="color:red">Hello everyone</span></p>
-  <p>On this about page, you might want to add more information about yourself, the project, or course. </p>
+  <p><strong style="color: #CD6AA3;">Hello everyone!</strong></p>
+  <p>I am Jiayue Ma, currently a graduate student at Weitzman School of Design, University of Pennsylvania, studying for a dual degree in city planning and urban spatial analytics. Before I came to Philadelphia, I completed the 5-year undergraduate program in city planning at Zhejiang University.
+</p>
 
-  - My name is *Eric* **Delmelle**, the instructor for the course. 
-  - You can find more information about me on my [personal website](https://www.design.upenn.edu/people/eric-delmelle).
-  - <span style="color:orange">This site is an example site showing how to use Quarto for the final project for MUSA 550, during fall 2024.</span>
-  - <span style="color:gray">Write something about you</span>
-    - <span style="color:red">or about something you like</span>
+  - As a data enthusiast and urban planner, I’m interested in a wide range of topics, including urban resilience, transportation system, as well as creative urban-design. 
+  - I have experience in data analysis, spatial analysis, and data visualization.
+  - I currently work as a research assistant at EMLab at Penn.
+  - If you are interested in reaching out, please contact me through my email: [majiayue@design.upenn.edu](mailto:majiayue@design.upenn.edu)
+<br><br>
+<span style="color:grey; font-size:small;">This site is an demonstration site of my final project for MUSA 550, during fall 2024.</span>
+
 </div>
 
 </div>

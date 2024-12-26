@@ -5,38 +5,42 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550"
+  title: "Land Cover to Satellite Image Translation with Pix2Pix GAN Model"
   page-footer:
-    left: "delmelle@gmail.com"
+    left: "majiayue@design.upenn.edu"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
-    logo: "images/course-icon.png"
+    logo: "images/project-icon.png"
     pinned: true
     align: center
     tools:
-      - icon: globe
-        href: https://www.design.upenn.edu/people/eric-delmelle
-        text: "Personal Website"
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2024/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/ericdelmelle
-        text: "Eric Delmelle Twitter"
+        href: https://github.com/Jiayue-Ma
+        text: "Personal Github Profile"
     style: "docked"
     search: true
     collapse-level: 2
     contents:
       - href: index.qmd
         text: Welcome
-      - about.qmd
-      - section: analysis/index.qmd
+      - section: Land Cover to Satellite Image Translation Project/index.qmd
         contents:
-          - analysis/1-python-code-blocks.qmd 
-          - analysis/2-static-images.ipynb
-          - analysis/3-altair-hvplot.ipynb
-          - analysis/4-folium.ipynb
+          - Land Cover to Satellite Image Translation Project/1-1.ipynb
+          - Land Cover to Satellite Image Translation Project/1-2.ipynb
+          - Land Cover to Satellite Image Translation Project/1-3.ipynb
+          - Land Cover to Satellite Image Translation Project/1-4.ipynb
+      - section: Land Cover to Satellite Image Translation Project/2-1.ipynb
+        contents: Land Cover to Satellite Image Translation Project/2-1.ipynb
+      - section: Land Cover to Satellite Image Translation Project/3-1.ipynb
+        contents: Land Cover to Satellite Image Translation Project/3-1.ipynb
+      - section: Land Cover to Satellite Image Translation Project/4-1.ipynb
+        contents: Land Cover to Satellite Image Translation Project/4-1.ipynb
+      - section: Land Cover to Satellite Image Translation Project/5-1.ipynb
+        contents: Land Cover to Satellite Image Translation Project/5-1.ipynb
+      - section: Land Cover to Satellite Image Translation Project/6-1.ipynb
+        contents: Land Cover to Satellite Image Translation Project/6-1.ipynb
+      - about.qmd
 
 format:
   html:
